@@ -22,6 +22,3 @@ As the data engineer assigned to the project, I have implemented an ETL pipeline
 ## How to Use
 
 Launch **Project_1B_ Project_Template.ipynb** to run validation and example queries.
-
-## Author 
-Mostafa Reda [linkedin](https://www.linkedin.com/in/mostafaali96/)
